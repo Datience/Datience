@@ -8,7 +8,7 @@
 
 💻 As for my future, I hope to one day work as Data Scientist and help companies make data-driven decisions to solve business problems
 
-🏋🏽‍♀️ In my free time, you can find me at the gym, code or read
+🏋🏽‍♀️ In my free time, I like to weight lift, cook , code and read
 
 💪🏽 Data Analysis and Visualization, Tableau Analyst, R , SQL, Advanced MS Excel, Advanced Research Techniques, Lifelong Learner
 
