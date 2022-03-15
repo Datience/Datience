@@ -18,18 +18,15 @@ My name is Dikshya (🗣Dee-k-sha) Pandey.
 
 # 💡 Core Capabilities
 
-• Tools:  Tableau, R, SQL, Advanced MS Excel, python
+• Tools:  Tableau, R, SQL, Advanced MS Excel, python, Product Development, Agile Metrics, JIRA and Confluence, Splunk
 
-• Skills: Data Analysis and Visualization, Advanced Research Techniques, Lifelong Learner, Relational Database
+• Skills: Data Analysis and Visualization, Advanced Research Techniques, Lifelong Learner, Relational Database, Agile Development
 
 # 🤓 Currently Reading
 
-• The data detective  (https://www.amazon.com/Data-Detective-Rules-Sense-Statistics/dp/0593084594)
+• The Data Detective  (https://www.amazon.com/Data-Detective-Rules-Sense-Statistics/dp/0593084594)
 
-• The Mental Toughness Advantage (https://www.amazon.com/Mental-Toughness-Advantage-Program-Resilience/dp/1641520531/ref=sr_1_3?crid=2AMPGNSTBIZ12&keywords=The+Mental+Toughness+Advantage&qid=1643928310&s=books&sprefix=the+mental+toughness+advantage+%2Cstripbooks%2C80&sr=1-3)
-
-
-
+• Can't Hurt Me (https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287)
 
 
 <!---
