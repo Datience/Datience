@@ -24,6 +24,13 @@ My name is Dikshya (🗣Dee-k-sha) Pandey.
 
 # 🤓 Currently Reading
 
+• Learning to Love Data Science (https://www.amazon.com/Learning-Love-Data-Science-Manufacturing/dp/1491936584/ref=sr_1_1?crid=166I3PZELOO0C&keywords=Learning+to+Love+Data+Science&qid=1648782705&s=books&sprefix=learning+to+love+data+science+%2Cstripbooks%2C58&sr=1-1)
+
+• 101 Essays That Will Change The Way You Think (https://www.amazon.com/Essays-That-Will-Change-Think/dp/1945796065)
+
+
+
+# ✔ Past Reading
 • The Data Detective  (https://www.amazon.com/Data-Detective-Rules-Sense-Statistics/dp/0593084594)
 
 • Can't Hurt Me (https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287)
