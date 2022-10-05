@@ -8,7 +8,7 @@ My name is Dikshya (🗣Dee-k-sha) Pandey.
 
 🏞 Virginia resident, with a passion for solving problems using data 
 
-📚 Bachelor Degree in Economics with a minor in Business. Currently doing my MS in Analytics along with a certification in Data Science from Kogod School of Business, American University
+📚 Bachelor Degree in Economics with a minor in Business.  MS in Analytics from Kogod School of Business, American University
 
 💻 As for my future, I hope to one day work as Data Scientist and help companies make data-driven decisions to solve business problems
 
