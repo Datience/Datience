@@ -4,7 +4,7 @@ My name is Dikshya (🗣Dee-k-sha) Pandey.
 
 # 🎙 About Me
 
-🎓 Soon to be a graduate with a Masters degree in Analytics (May 2022)
+🎓 Graduate with a Masters degree in Analytics (May 2022)
 
 🏞 Virginia resident, with a passion for solving problems using data 
 
